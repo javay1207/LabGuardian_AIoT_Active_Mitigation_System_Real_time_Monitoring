@@ -1,0 +1,2 @@
+# LabGuardian-AIoT-Active-Mitigation-System-Real-time-Monitoring
+LabGuardian is a cost-effective safety system for school labs. Using a Raspberry Pi 5, it monitors temperature and humidity to prevent fire risks. By integrating MQTT and Node-RED, it enables easy remote monitoring from any device. LabGuardian offers essential alerts, providing a smart, simple safety solution for campus infrastructure.
