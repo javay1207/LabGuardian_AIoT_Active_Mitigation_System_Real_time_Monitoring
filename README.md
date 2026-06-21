@@ -52,6 +52,7 @@ pip install -r requirements.txt
 ```
 **3. Configure Node-RED Dashboard**
 Before starting the sensor script, you need to set up the visualization interface:
+
 * Start Node-RED on your Raspberry Pi.
 * Open a browser and go to `http://<Your_Raspberry_Pi_IP_Address>:1880`.
 * Click the menu icon `(≡)` in the top right corner and select Import.
